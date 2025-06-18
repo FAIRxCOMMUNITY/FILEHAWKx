@@ -38,7 +38,7 @@
 
 ## 🚀 Getting Started
 
-1. Download the latest `.exe` from the [Releases]([https://github.com/YOUR_USERNAME/FileHawk/releases](https://github.com/FAIRxCOMMUNITY/FILEHAWKx/releases/tag/v1.0.0)) tab.
+1. Download the latest `.exe` from the [Releases](https://github.com/FAIRxCOMMUNITY/FILEHAWKx/releases) tab.
 2. **Run as Administrator** for full system access.
 3. Follow the interactive console prompts.
 
