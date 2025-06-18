@@ -1,4 +1,4 @@
-# 🦅 FileHawk - Advanced PC Scan & Cheat Detection Tool
+# 🦅 FILEHAWKx - Advanced PC Scan & Cheat Detection Tool
 
 **FileHawk** is a powerful Windows-based utility designed to scan your PC for suspicious files, game cheats, injections, tampering tools, and other system anomalies. Built with performance and simplicity in mind, it gives users a clear view of recent file activity, hardware fingerprints, and unauthorized tools hiding on the system.
 
